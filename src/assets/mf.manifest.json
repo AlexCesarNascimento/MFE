@@ -1,0 +1,10 @@
+{
+  "mfe-remotes": {
+    "remoteEntry": "http://localhost:4201/remoteEntry.js",
+
+    "exposedModule": "./Module",
+    "displayName": "Bloco",
+    "routePath": "bloco",
+    "ngModuleName": "BlocoModule"
+  }
+}
